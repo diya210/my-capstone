@@ -9,7 +9,7 @@ function DataSection() {
       </p>
       <div className="video-card">
         <video autoPlay muted loop playsInline width="100%">
-          <source src="/planet video.mp4" type="video/mp4" />
+          <source src="/planet-video.mp4" type="video/mp4" />
         </video>
       </div>
     </section>
