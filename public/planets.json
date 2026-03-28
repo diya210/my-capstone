@@ -1,0 +1,11 @@
+[
+    {"planet": "Mercury", "distanceFromSun": 57.9, "image": "/mercury.jpeg"},
+    {"planet": "Venus", "distanceFromSun": 108.2, "image": "/venus.jpeg"},
+    {"planet": "Earth", "distanceFromSun": 149.6, "image": "/earth.jpeg"},
+    {"planet": "Mars", "distanceFromSun": 227.9, "image": "/mars.jpeg"},
+    {"planet": "Jupiter", "distanceFromSun": 778.6, "image": "/jupiter.jpeg"},
+    {"planet": "Saturn", "distanceFromSun": 1433.5, "image": "/saturn.jpeg"},
+    {"planet": "Uranus", "distanceFromSun": 2872.5, "image": "/uranus.jpeg"},
+    {"planet": "Neptune", "distanceFromSun": 4495.1, "image": "/neptune.jpeg"},
+    {"planet": "Pluto", "distanceFromSun": 5906.4, "image": "/pluto.webp"}
+]
