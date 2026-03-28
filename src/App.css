@@ -210,3 +210,31 @@ th, td {
   font-size: 0.8rem;
   color: #94a3b8;
 }
+@media (max-width: 768px) {
+  .hero-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-text h1 {
+    font-size: 2rem;
+  }
+
+  .planet-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .contact-form {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-form textarea {
+    grid-column: span 1;
+  }
+
+  .footer {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+}
